@@ -1,5 +1,6 @@
 body{
 	font-size: 28px;
+	color: crimson;
 }
 h1{
 	text-align: center;
@@ -8,6 +9,20 @@ h1{
 
 p{
 	font-size: 22px;
+	color: black;
+}
+
+.Edu{
+	color: blue;
+}
+.Exp{
+	color: red;
+}
+.skill{
+	color: magenta;
+}
+.Act{
+	color: indigo;
 }
 ul{
 	font-size: 20px;
